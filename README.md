@@ -4,10 +4,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Ola_Cabs_logo.svg" alt="Ola Logo" width="200"/>
 </p>
 
-# Ola Ride Analytics  
+# OLA RIDE ANALYTICS  
 **SQL & Power BI end‑to‑end project**
 
-> **Author**: [Your Name]  
+> **Author**: ANKUSH  
 > **Email**: ak547874@gmail.com  
 > **Tech Stack**: MySQL · Power BI · DAX · Git
 
