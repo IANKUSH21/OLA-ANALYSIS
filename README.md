@@ -1,7 +1,6 @@
 <!-- README.md  ────────────────────────────────────────────────────────── -->
-
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Ola_Cabs_logo.svg" alt="Ola Logo" width="200"/>
+  <img src="https://logodix.com/logo/1307141.png" alt="Ola Logo" width="200"/>
 </p>
 
 # OLA RIDE ANALYTICS  
